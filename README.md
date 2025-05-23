@@ -112,7 +112,7 @@ sns.heatmap(corr,annot=True)
 sns.pairplot(df)
 ```
 ![image](https://github.com/user-attachments/assets/95b6e9e7-9022-414e-b892-ebbe68461c28)
-
+```
 ## RESULT:
 Thus this dataset has been completely analysed successfully
 
